@@ -1,4 +1,4 @@
-# Welcome to Kharagpur Blockchain Community
+# Welcome to the Kharagpur Blockchain Community
 
 ## About Us
 We are a dynamic community of passionate students dedicated to exploring, understanding, and shaping the future of decentralized technologies. At the intersection of education and innovation, we strive to empower minds, foster collaboration, and drive the adoption of blockchain and web3 solutions.
